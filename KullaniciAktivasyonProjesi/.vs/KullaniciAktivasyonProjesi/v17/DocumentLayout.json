@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\kullaniciaktivasyonprojesi\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|solutionrelative:kullaniciaktivasyonprojesi\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|c:\\users\\emir ali\\documents\\projeler\\entityframeworkprojeleri\\kullaniciaktivasyonprojesi\\kullaniciaktivasyonprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|solutionrelative:kullaniciaktivasyonprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\kullaniciaktivasyonprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|solutionrelative:kullaniciaktivasyonprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\kullaniciaktivasyonprojesi\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F713547D-DB9C-45FF-88C5-8DE44887984F}|KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi.csproj|solutionrelative:kullaniciaktivasyonprojesi\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMailConfirm.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\FrmMailConfirm.cs",
+              "RelativeDocumentMoniker": "KullaniciAktivasyonProjesi\\FrmMailConfirm.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\FrmMailConfirm.cs",
+              "RelativeToolTip": "KullaniciAktivasyonProjesi\\FrmMailConfirm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:15:51.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMailConfirm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\FrmMailConfirm.cs",
+              "RelativeDocumentMoniker": "KullaniciAktivasyonProjesi\\FrmMailConfirm.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\FrmMailConfirm.cs [Design]",
+              "RelativeToolTip": "KullaniciAktivasyonProjesi\\FrmMailConfirm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:56:49.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\Form1.cs",
+              "RelativeDocumentMoniker": "KullaniciAktivasyonProjesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\Form1.cs",
+              "RelativeToolTip": "KullaniciAktivasyonProjesi\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:36:31.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\Form1.cs",
+              "RelativeDocumentMoniker": "KullaniciAktivasyonProjesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\EntityFrameworkProjeleri\\KullaniciAktivasyonProjesi\\KullaniciAktivasyonProjesi\\Form1.cs [Design]",
+              "RelativeToolTip": "KullaniciAktivasyonProjesi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:30:47.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
